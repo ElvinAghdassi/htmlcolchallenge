@@ -1,0 +1,12 @@
+.block p {
+    background-color: lightblue;
+    color: black;
+    padding: 10px;
+}
+.bottom_section{
+    margin-top: 100px;
+}
+
+#bottom_text{
+    margin-top: 100px;
+}
